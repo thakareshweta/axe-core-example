@@ -2,7 +2,7 @@
 
 ## Quality Checklist
 ~~- [ ] Bump Version~~
-- [ ] Update Changelog.md
+~~- [ ] Update Changelog.md~~
 - [ ] Code Review (Reviewer 1)
 - [ ] Code Review (Reviewer 2)
 - [ ] QA

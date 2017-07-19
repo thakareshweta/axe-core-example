@@ -1,17 +1,15 @@
 ## Description
-A few sentences describing the overall goals of the pull request's commits.
 
-## Related PRs
-List related PRs against other branches:
-
-branch | PR
------- | ------
-other_pr_production | [link]()
-other_pr_master | [link]()
-
-## Todos
-- [ ] Tests
-- [ ] Documentation
+## Quality Checklist
+- [ ] Bump Version
+- [ ] Update Changelog.md
+- [ ] Code Review (Reviewer 1)
+- [ ] Code Review (Reviewer 2)
+- [ ] QA
 
 ## Steps to Test or Reproduce
-Outline the steps to test or reproduce the PR here.
+
+## Related PRs \(Optional)
+branch | PR
+------ | ------
+example_branch | [link]()

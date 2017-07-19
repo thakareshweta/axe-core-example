@@ -1,7 +1,7 @@
 ## Description
 
 ## Quality Checklist
-- [ ] Bump Version
+- ~~[ ] Bump Version~~
 - [ ] Update Changelog.md
 - [ ] Code Review (Reviewer 1)
 - [ ] Code Review (Reviewer 2)
